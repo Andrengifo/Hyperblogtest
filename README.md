@@ -26,6 +26,10 @@ Los temas abordados son:
 * !Agregando ejemplos basicos
 ------------
 
+------------
+
+*  # available now on all plataforms 
+
 
 
 Recordatorio, esto es solo una practica, "UNA PRACTICA" 
