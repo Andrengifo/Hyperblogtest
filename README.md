@@ -21,6 +21,8 @@ Los temas abordados son:
 
 * Pull request
 
+* Created by Master of Doom 
+
 
 ------------
 
