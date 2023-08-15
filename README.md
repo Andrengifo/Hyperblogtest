@@ -23,8 +23,15 @@ Los temas abordados son:
 
 * Created by Master of Doom 
 
+<<<<<<< HEAD
+=======
+* !Agregando ejemplos basicos
+------------
+>>>>>>> read-doom
 
 ------------
+
+*  # available now on all plataforms 
 
 
 
